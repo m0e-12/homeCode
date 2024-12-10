@@ -1,3 +1,3 @@
 # homeCode
 
-Initially Planorama as the pitchdeck renamed to homeCode
+Initially Planorama as per the pitchdeck renamed to homeCode
